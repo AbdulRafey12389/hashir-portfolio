@@ -39,7 +39,7 @@ import appwrite from './images/appwrite.svg';
 import github from './images/github.svg';
 
 // SKILLS BOXES IMAGES...
-import boxJs from './images/boxjs.png';
+import boxJs from './images/boxJs.png';
 import boxReact from './images/boxReact.png';
 import boxNodejs from './images/boxNodejs.png';
 import boxExpress from './images/boxExpressjs.png';
