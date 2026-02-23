@@ -18,7 +18,7 @@ import blogApp from './images/fullstack-app.jpg';
 import aiTaskApp from './images/ai-task-app.jpg';
 import chatApp from './images/chat-app.jpg';
 import loanManagementSystem from './images/loan-management-system.jpg';
-import movieApp from './images/movieFlix.jpg';
+import movieApp from './images/movieflix.jpg';
 import crudApp from './images/crud-app.jpg';
 import emsSystem from './images/sms-system.jpg';
 import stranger from './images/stranger.jpg';
