@@ -12,7 +12,7 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 import About from './components/About';
 import Header from './components/Header';
 import Skill from './components/Skill';
-import Work from './components/work';
+import Work from './components/Work';
 import Hero from './Hero';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
